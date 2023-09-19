@@ -1,0 +1,64 @@
+/* header */ 
+
+ 	 header{background-color: blue;}
+
+     .index-link{
+
+     	color: black;
+		font-size: 3rem;
+
+     }
+     
+
+/* header */
+/* main*/
+
+  	main{
+
+  		background-color: #DB2304;
+  	}
+
+   #directions{
+
+   	width: 95%;
+
+   }
+
+
+  
+
+/* main */
+/*footer*/
+
+   footer{
+
+   	background-color: skyblue;
+   }
+
+
+   
+   #index-head{
+
+   	font-size: 3rem;
+
+   }
+
+
+
+   #index1{
+
+   	 color: black;
+   	 font-size: 2rem;
+   	 font-weight: bold;
+   	 text-decoration: none;
+ 	/*(used to give an outline to text.) -webkit-text-stroke: 2px (add color here) ; */
+
+   }
+
+
+   /*
+   #index1{font-size: 2rem;}
+   #index1{}
+   #index1{font-}*/
+
+/*footer*/
